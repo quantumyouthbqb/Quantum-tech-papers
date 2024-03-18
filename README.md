@@ -325,6 +325,8 @@ and Stefan Woerner
        https://arxiv.org/pdf/2106.03360.pdf
 - The Everything-Is-a-Quantum-Wave Interpretation of Quantum Physics - Vlatko Vedral
        https://www.mdpi.com/2624-960X/5/2/31
+- The Future of Quantum Computing with Superconducting Qubits - Sergey Bravyi, Oliver Dial, Jay M. Gambetta, Dar ́ıo Gil, and Zaira Nazario1
+       https://pubs.aip.org/aip/jap/article/132/16/160902/2837574/The-future-of-quantum-computing-with?gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oNR3geHvK84h1XCOdqayK_DY_PnHb5Rj20SbFdhIwVD9TZR7NvZWPBoC93UQAvD_BwE
 - The Physical Implementation of Quantum Computation
        https://arxiv.org/abs/quant-ph/0002077
 - The SWAP test and the Hong-Ou-Mandel effect are equivalent - Juan Carlos Garcia-Escartin, Pedro Chamorro-Posada
