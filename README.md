@@ -2,22 +2,15 @@
 This repo contains some of the papers and publications, I have read over the past few months, that pertain to quantum technology development.
 It is not a curated list of the most recommended publications for a beginner in the quantum networking field, but rather a journal (of sorts) that depics my journey through publications.
 Re-curring topics on this list are:
-- Quantum protocol design
-- Quantum algorithms
+- Quantum protocols and algorithms
 - The Quantum internet
-- Silicon based quantum technologies
-- Ion traps
-- The Hong-Ou-Mandel effect
+- Quantum Hardware
+- Photonics 
 - Quantum circuits 
-- Programmable quantum gates
-- Quantum error correction
-- Quantum error mitigation
-- Electron-spin states
+- Quantum error correction & mitigation
 - Commercial and philosophical views on quantum technologies
-- Quantum repeater architectures
-- Quantum memories
+- Quantum networking architectures
 - Experimental simulating tools
-- Quantum markets and hype
 - Quantum Machine Learning (QML)
 - Constructor theory
 - Physical information
@@ -59,8 +52,12 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/quant-ph/0508124
 - Anti-Hong-Ou-Mandel effect with entangled photons - Anton N. Vetlugin, Ruixiang Guo, Cesare Soci, Nikolay I. Zheludev
        https://arxiv.org/abs/2105.05444
+- 𝑨 𝒔𝒆𝒓𝒊𝒆𝒔 𝒐𝒇 𝒇𝒂𝒔𝒕-𝒑𝒂𝒄𝒆𝒅 𝒂𝒅𝒗𝒂𝒏𝒄𝒆𝒔 𝒊𝒏 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑬𝒓𝒓𝒐𝒓 𝑪𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 - Earl Campbell
+	https://www.nature.com/articles/s42254-024-00706-3
 - Assembly and coherent control of a register of nuclear spin qubits
        https://arxiv.org/abs/2108.04790
+- 𝑨𝒔𝒔𝒆𝒔𝒔𝒊𝒏𝒈 𝒕𝒉𝒆 𝑩𝒆𝒏𝒆𝒇𝒊𝒕𝒔 𝒂𝒏𝒅 𝑹𝒊𝒔𝒌𝒔 𝒐𝒇 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓𝒔 - Travis L. Scholten, et.al
+	https://arxiv.org/pdf/2401.16317.pdf
 - Automated distribution of quantum circuits via hypergraph partitioning - Pablo Andrés-Martínez, Chris Heunen
        https://arxiv.org/abs/1811.10972
 - Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer - J. Eli Bourassa, Rafael N. Alexander, Michael Vasmer, Ashlesha Patil, ...
@@ -75,6 +72,8 @@ The following papers/articles/books are available in this repo (in order):
        https://arxiv.org/abs/1701.00815
 - Commercial applications of quantum computing - Francesco Bova, Avi Goldfarb, Roger G. Melko
        https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-021-00091-1
+- 𝑪𝒐𝒎𝒑𝒂𝒓𝒂𝒕𝒊𝒗𝒆 𝒔𝒕𝒖𝒅𝒚 𝒐𝒇 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒆𝒓𝒓𝒐𝒓 𝒄𝒐𝒓𝒓𝒆𝒄𝒕𝒊𝒐𝒏 𝒔𝒕𝒓𝒂𝒕𝒆𝒈𝒊𝒆𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒉𝒆𝒂𝒗𝒚-𝒉𝒆𝒙𝒂𝒈𝒐𝒏𝒂𝒍 𝒍𝒂𝒕𝒕𝒊𝒄𝒆 - César Benito, Et al.
+	https://arxiv.org/abs/2402.02185#:~:text=Comparative%20study%20of%20quantum%20error%20correction%20strategies%20for%20the%20heavy%2Dhexagonal%20lattice,-César%20Benito%2C%20Esperanza&text=Topological%20quantum%20error%20correction%20is,algorithms%20for%20real%2Dworld%20problems
 - Comparing coherent and incoherent models for quantum homogenization - Anna Beever, Maria Violaris, Chiara Marletto, and Vlatko Vedral
        https://arxiv.org/pdf/2309.15741.pdf
 - Conservation Laws Reveal the Quantumness of Gravity - Tianfeng Feng, Chiara Marletto, Vlatko Vedral
@@ -101,8 +100,14 @@ The following papers/articles/books are available in this repo (in order):
        https://iopscience.iop.org/article/10.1088/0034-4885/76/9/096001/pdf
 - Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing - M. Cerezo et. al.
        https://arxiv.org/pdf/2312.09121.pdf
+- 𝑫𝒖𝒂𝒍 𝒇𝒓𝒂𝒎𝒆 𝒐𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏𝒂𝒍𝒍𝒚 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆 𝒒𝒖𝒂𝒏𝒕𝒖𝒎 𝒎𝒆𝒂𝒔𝒖𝒓𝒆𝒎𝒆𝒏𝒕𝒔 - Laurin E. Fischer, Et al
+	https://arxiv.org/abs/2401.18071
+- Effect of thickness variations of lithium niobate on insulator waveguide on the frequency spectrum of spontaneous parametric down-conversion - Guang-Tai Xue(薛广太), Xiao-Hui Tian(田晓慧), Chi Zhang(张弛), Zhenda Xie(谢臻达), Ping Xu(徐平), Yan-Xiao Gong(龚彦晓)1, and Shi-Ning Zhu
+	https://iopscience.iop.org/article/10.1088/1674-1056/ac22a1/meta
 - Efficient parametric frequency conversion in lithium niobate nanophotonic chips - Jia-yang Chen, Yong Meng Sua, Zhao-hui Ma, Chao Tang, Zhan Li, Yu-ping Huang
        https://arxiv.org/abs/1903.08722
+- Efficient single-photon pair generation by spontaneous parametric down-conversion in nonlinear plasmonic metasurfaces - Boyuan Jin, Dhananjay Mishra, and Christos Argyropoulos - Bradley S. Elkus, Kamal Abdelsalam, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
+	https://arxiv.org/pdf/2111.09753.pdf
 - Electrical Tuning of Neutral and Charged Excitons with 1-nm Gate - Jawaher Almutlaq, et. al.
        https://arxiv.org/pdf/2310.19895.pdf
 - Elementary gates for quantum computation - Adriano Barenco, Charles H. Bennett, Richard Cleve, David P. DiVincenzo, ...
@@ -131,6 +136,8 @@ The following papers/articles/books are available in this repo (in order):
        https://www.nature.com/articles/srep22088
 - Exponential speedups for quantum walks in random hierarchical graphs - Shankar Balasubramanian, Tongyang Li, and Aram Harrow
        https://arxiv.org/abs/2307.15062
+- 𝑭𝒂𝒔𝒕 𝒄𝒍𝒂𝒔𝒔𝒊𝒄𝒂𝒍 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑯𝒂𝒓𝒗𝒂𝒓𝒅/𝑸𝒖𝑬𝒓𝒂 𝑰𝑸𝑷 𝒄𝒊𝒓𝒄𝒖𝒊𝒕𝒔 - Dmitri Maslov, Et al.
+	https://arxiv.org/abs/2402.03211
 - Fault-tolerant Preparation of Stabilizer States for Quantum CSS Codes by Classical Error-Correcting Codes - Ching-Yi Lai, Yi-Cong Zheng, and Todd A. Brun
        https://arxiv.org/abs/1605.05647
 - Field-Deployable Quantum Memory for Quantum Networking - Yang Wang, Alexander N. Craddock, Rourke Sekelsky, Mael Flament, and Mehdi Namazi
@@ -153,6 +160,8 @@ The following papers/articles/books are available in this repo (in order):
        https://opg.optica.org/directpdfaccess/02ed958b-dc38-449c-b5d94c4360c660b2_424684/oe-27-26-38521.pdf?da=1&id=424684&seq=0&mobile=no 
 - High Quality Entangled Photon Pair Generation in Periodically Poled Thin-Film Lithium Niobate Waveguides - Jie Zhao, Chaoxuan Ma, Michael Rüsing, and Shayan Mookherjea
        https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163603 
+- High-threshold and low-overhead fault-tolerant quantum memory -Sergey Bravyi, et. Al
+	https://www.nature.com/articles/s41586-024-07107-7
 - How many qubits are needed for quantum computational supremacy? - Alexander M. Dalzell1, Aram W. Harrow, Dax Enshan Koh, and Rolando L. La Placa 
        https://quantum-journal.org/papers/q-2020-05-11-264/
 - Implementation of multidimensional quantum walks using linear optics and classical light - Sandeep K. Goyal, Filippus S. Roux, Andrew Forbes, and Thomas Konrad
@@ -233,6 +242,8 @@ and Stefan Woerner
        https://arxiv.org/pdf/1809.07442.pdf
 - Quantum computing at the frontiers of biological sciences - Prashant S. Emani, et. al.
        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8254820/
+- Quantum-correlated photon-pair generation via cascaded nonlinearity in an ultra-compact lithium-niobate nano-waveguide - Bradley S. Elkus, Kamal Abdelsalam, Sasan Fathpour, Prem Kumar, and Gregory S. Kanter
+	https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39963&id=444931
 - Quantum Data Center: Theories and Applications - Junyu Liu, Connor T. Hann, and Liang Jiang1
        https://arxiv.org/abs/2207.14336
 - Quantum Internet Protocol Stack a Comprehensive Survey - Jessica Illiano, Marcello Caleffi, Antonio Manzalini, Angela Sara Cacciapuoti
@@ -241,6 +252,8 @@ and Stefan Woerner
        https://link.springer.com/article/10.1007/BF00735376
 - Quantum principal component analysis - Seth Lloyd, Masoud Mohseni and Patrick Rebentrost
        https://www.nature.com/articles/nphys3029#Sec2
+- - 𝑸𝒖𝒂𝒏𝒕𝒖𝒎 𝒔𝒊𝒎𝒖𝒍𝒂𝒕𝒊𝒐𝒏 𝒐𝒇 𝑭𝒆𝒓𝒎𝒊-𝑯𝒖𝒃𝒃𝒂𝒓𝒅 𝒎𝒐𝒅𝒆𝒍 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒕𝒓𝒂𝒏𝒔𝒎𝒐𝒏 𝒒𝒖𝒅𝒊𝒕 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒐𝒏 -Arian Vezvaee
+	https://arxiv.org/abs/2402.01243
 - Quantum simulator enables first microscopic observation of charge carriers pairing
        https://www.mpq.mpg.de/6803661/01-magnetic-pairing
 - Quantum states with Einstein-Podolsky-Rosen correlations admitting a hidden-variable model - Reinhard F. Werner
@@ -286,6 +299,8 @@ and Stefan Woerner
        https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058
 - Reducing Green House Gas Emissions With Congestion Control - Michael Welzl, Ozgu Alay, Peyman Teymoori, Safiqul Islam
        https://github.com/intarchboard/e-impact-workshop-public/blob/main/papers/Welzel-Alay-Teymoori-Islam_Reducing-Green-House-Gas-Emissions-With-Congestion-Control-v2.pdf
+- Rejuvenating a versatile photonic material: Thin-film lithium niobate - Amirmahdi Honardoost, Kamal Abdelsalam, and Sasan Fathpourhttps
+       //onlinelibrary.wiley.com/doi/full/10.1002/lpor.202000088#
 - Request_Scheduling_in_Quantum_Networks - C. Cicconetti, M. Conti, and A. Passarella
        https://www.researchgate.net/publication/352621787_Request_Scheduling_in_Quantum_Networks
 - Room temperature quantum key distribution characteristics of low‑noise InGaAs/InP single‑photon avalanche diode - Soo‑Hyun Baek, Seung‑Chul Yang1, Chan‑Yong Park
